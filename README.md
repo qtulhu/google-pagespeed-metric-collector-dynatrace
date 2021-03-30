@@ -1,2 +1,2 @@
-# goole-pagespeed-metric-collector-dynatrace
+# google-pagespeed-metric-collector-dynatrace
  
